@@ -19,4 +19,6 @@ This project will show you how to implement place picker using jetpack compose a
 All you need is api key and base url for GeoCoding Api
 you can found them here : https://developers.google.com/maps/documentation/geocoding/overview
 
+# If you find any bad practices with compose you can report to me Thank you.
+
 ### Don't forget to leave a star if you like the project :).
